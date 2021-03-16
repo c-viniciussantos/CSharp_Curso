@@ -11,3 +11,16 @@ C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\ConsoleApp1\Con
 C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
