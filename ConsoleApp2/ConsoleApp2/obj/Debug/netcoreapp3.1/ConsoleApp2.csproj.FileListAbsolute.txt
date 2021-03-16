@@ -10,3 +10,4 @@ C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\Co
 C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
 C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
 C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+C:\Users\cvini\OneDrive\Área de Trabalho\ESTUDOS\C#\CSharpUdemy\CSharp_Curso\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache

@@ -29,6 +29,28 @@ namespace ConsoleApp2 {
             //por concatenação de string e variaveis ""+variavel+""
             Console.WriteLine(nome + " tem "+ idade + " anos e tem saldo R$ "+ saldo.ToString("F2"));
 
+            Console.WriteLine("\n\n\n\n");
+
+            //Exercicio Fixação
+
+            string s1 = "Computador";
+            string s2 = "Mesa de escritorio";
+
+            byte anos = 23;
+            int codigo = 5290;
+            char genero = 'M';
+
+            double p1 = 2100.0;
+            double p2 = 650.0;
+            double p3 = 53.234567;
+
+            Console.WriteLine("Produtos:");
+            Console.WriteLine($"{s1}, cujo preço R$ {p1:F2}");
+            Console.WriteLine("{0}, cujo preço R$ {1:F2}\n", s2, p2);
+            Console.WriteLine("Registro: " + anos + " anos, codigo: " + codigo + " e genero: " + genero + "\n");
+            Console.WriteLine("Medida com oito casas decimais: " + p3.ToString("F8"));
+            Console.WriteLine("Arrendondado com tres casas: " + p3.ToString("F3"));
+
         }
     }
 }
